@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/CustomDraw/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/CustomDraw/Default.aspx.vb))
 <!-- default file list end -->
 # How to use CustomDraw events
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3223/)**
+<!-- run online end -->
 
 
 <p>This sample illustrates how to use the <strong>CustomDrawElement</strong> event to completely customize the appearance of <strong>ASPxGaugeControl</strong>.</p>
