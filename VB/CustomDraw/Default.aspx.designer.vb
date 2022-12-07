@@ -67,7 +67,7 @@ Namespace CustomDraw
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxCheckBox1 As Global.DevExpress.Web.ASPxEditors.ASPxCheckBox
+		Protected ASPxCheckBox1 As Global.DevExpress.Web.ASPxCheckBox
 
 		''' <summary>
 		''' value control.
@@ -76,6 +76,6 @@ Namespace CustomDraw
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected value As Global.DevExpress.Web.ASPxEditors.ASPxSpinEdit
+		Protected value As Global.DevExpress.Web.ASPxSpinEdit
 	End Class
 End Namespace
